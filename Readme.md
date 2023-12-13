@@ -83,7 +83,7 @@
 
 Шаги воспроизведения:
 
-1.Открыть сайт "https://angular.realworld.io".
+1. Открыть сайт "https://angular.realworld.io".
 
 2. Авторизоваться на сайте.
 
